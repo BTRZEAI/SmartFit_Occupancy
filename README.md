@@ -2,10 +2,10 @@
 A Python Streamlit Dashboard app which displays, through Folium Maps, the occupancy data in percentages during the day, for all Brazilian gym Smart Fit franchises.
 
 ## Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/](https://occupancysmartfit.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/btrzeai/occupancysmartfit.streamlit.app/)
 
 ## Screenshot
-![image](https://github.com/BTRZEAI/SmartFit_Occupancy/assets/105079088/1d344b7d-55b0-484d-9b9d-bff022c709d7)
+![(image)](./Screenshot.png?raw=true)
 
 ## How to run this app
 ```
